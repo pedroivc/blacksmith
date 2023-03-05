@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "Some checkers for blacksmith static web page",
     "scripts": {
-        "cy:open": "cypress op",
-        "test": "cypress r"
+        "cy:open": "npx cypress open",
+        "test": "npx cypress run"
     },
     "repository": {
         "type": "git",
