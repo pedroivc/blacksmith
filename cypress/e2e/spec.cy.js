@@ -1,6 +1,5 @@
 /// <reference types="Cypress" />
 
-import { should } from "chai"
 
 describe('spec.cy.js', () => {
     beforeEach(() => {
